@@ -5,7 +5,10 @@
       "Bash(git -C /Users/taranmand/my-github-repos/claude_exp status)",
       "Bash(nvm --version)",
       "Bash(fnm --version)",
-      "Bash(volta --version)"
+      "Bash(volta --version)",
+      "Skill(run)",
+      "Bash(npm run *)",
+      "Bash(echo \"PID: $!\")"
     ]
   }
 }
