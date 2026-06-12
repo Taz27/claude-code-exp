@@ -11,7 +11,7 @@ export default function Counter() {
   }, []);
 
   return (
-    <div className="flex flex-col items-center gap-1 sm:items-start">
+    <div className="flex flex-col items-center gap-1">
       <span className="text-sm text-zinc-500 dark:text-zinc-400">Counter</span>
       <span className="text-5xl font-bold tabular-nums text-black dark:text-zinc-50">
         {count}
